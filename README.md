@@ -8,7 +8,7 @@
 
 ---
 
-*Computer Science student* passionate about **full-stack development**, **IT infrastructure**, and **computational neuroscience**. Currently building with **HTML, CSS, JavaScript, React, Python, Node.js**, and **Django**, exploring the intersection of code, creativity, and meaningful impact.
+*Computer Scientist* passionate about **full-stack development**, **IT infrastructure**, and **computational neuroscience**. Currently building with **HTML, CSS, JavaScript, React, Python, Node.js**, and **Django**, exploring the intersection of code, creativity, and meaningful impact.
 
 I'm also working as a **Field Service Analyst JR**, applying my knowledge to real-world challenges and growing every day.
 
@@ -17,7 +17,7 @@ I'm also working as a **Field Service Analyst JR**, applying my knowledge to rea
 - 🧠 Researching **synaptic plasticity in developing neural networks** (undergraduate thesis)
 - 💻 Building **full-stack applications** and **professional landing pages**
 - ⚙️ Experienced in **IT support (N1/N2)** and **infrastructure**
-- 🎓 Graduating in **Computer Science @ UERN** (2026)
+- 🎓 Graduate in **Computer Science @ UERN** (2026)
 
 🔗 [LinkedIn](https://linkedin.com/in/emillyyorke) · 📋 [Lattes](https://lattes.cnpq.br/3199109945593852) · 🌐 [Portfolio](https://emillyyorke.github.io) · **Pronouns:** she/her
 
