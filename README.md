@@ -2,7 +2,7 @@
 
 ## 👋 Hey there! I'm Emilly
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student+%40+UERN;Full+Stack+Developer;Computational+Neuroscience+Researcher;Field+Service+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Computer+Scientist;Full+Stack+Developer;Computational+Neuroscience+Researcher;Field+Service+Analyst" alt="Typing SVG" />
 
 </div>
 
