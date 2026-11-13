@@ -17,7 +17,7 @@ I'm also working as a **Field Service Analyst JR**, applying my knowledge to rea
 - 🧠 Researching **synaptic plasticity in developing neural networks** (undergraduate thesis)
 - 💻 Building **full-stack applications** and **professional landing pages**
 - ⚙️ Experienced in **IT support (N1/N2)** and **infrastructure**
-- 🎓 Graduate in **Computer Science @ UERN** (2026)
+- 🎓 **Computer Science @ UERN** (2026)
 
 🔗 [LinkedIn](https://linkedin.com/in/emillyyorke) · 📋 [Lattes](https://lattes.cnpq.br/3199109945593852) · 🌐 [Portfolio](https://emillyyorke.github.io) · **Pronouns:** she/her
 
